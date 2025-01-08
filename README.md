@@ -1,5 +1,5 @@
 # never-sleep-bat
-Simple no dependencies version of never sleep.
+Simple no dependencies version of [never sleep](https://github.com/sukhbinder/never-sleep).
 
 Keep your windows from sleeping. Will keep it on.
 
