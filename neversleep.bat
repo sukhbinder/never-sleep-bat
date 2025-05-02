@@ -2,6 +2,6 @@
 color 3F
 
 :loop
-script "%cd%\neversleep2.vbs" / /nologo
+cscript "%cd%\neversleep.vbs" / /nologo
 timeout /t 73
 goto loop
